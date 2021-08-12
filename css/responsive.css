@@ -1,0 +1,155 @@
+/* Latop Device :1200px. 1350 767*/
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .single-counter {
+        padding: 12px 0px;
+    }
+   
+}
+
+
+/* LG  Device :992px. 1096 */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .single-slider-hero h1 {
+        font-size: 36px;
+    }
+    .contact-form-area form input[type="email"] {
+        width: 48%;
+    }
+    .footer-text span {
+        margin-top: -3px;
+        position: absolute;
+    }
+}
+
+/* MD Device :768px. 879.5 */
+@media (min-width: 768px) and (max-width: 991px) {
+    .single-slider-hero h1 {
+        font-size: 36px;
+    }
+    .single-features-item {
+        margin: 40px 0px 0px 0px;
+    }
+    .hero-area {
+        margin-bottom: 0;
+    }
+    .single-ourteam-item {
+        padding: 35px 35px;
+    }
+    .counter-area {
+        margin-top: 160px;
+        text-align: center;
+    }
+    .single-counter {
+        padding: 60px 0px;
+    }
+    .about-img-area img {
+        margin-top: 40px;
+    }
+    .section-title ul li {
+        text-align: left;
+    }
+    .contact-form-area form input[type="email"] {
+        width: 47%;
+    }
+    .footer-area {
+        text-align: center;
+    }
+    .footer-icon i {
+        float: unset;
+    }
+    .footer-text {
+        margin-bottom: 16px;
+    }
+
+}
+
+
+/* small mobile (XS) :320px. */
+@media (max-width: 767px) {
+
+}
+
+
+
+/* SM Device :480px. */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+
+    .single-slider-hero h1 {
+        font-size: 36px;
+    }
+    .owl-prev i {
+        display: none;
+    }
+    .owl-next i {
+        display: none;
+    }
+    .hero-area {
+        margin-bottom: 0;
+    }
+    .features-area {
+        margin-bottom: 120px;
+    }
+    .about-img-area {
+        margin: 40px 0px 40px 0px;
+    }
+    .service-area-text {
+        padding-top: 40px;
+    }
+    .service-area-text h2 {
+        font-size: 21px;
+        margin: 0px 0px 0px 0px;
+    }
+    .single-features-item {
+        margin: 40px 0px 0px 0px;
+    }
+    .single-review-item {
+        padding: 20px 15px;
+    }
+    .single-ourteam-item {
+        padding: 20px 2px;
+    }
+    .single-ourteam-item i {
+        margin: 0px 5px 0px 0px;
+    }
+    .counter-area {
+        margin-top: 160px;
+        text-align: center;
+    }
+    .single-counter {
+        padding: 30px 0px;
+    }
+    .section-title {
+        text-align: center;
+    }
+    .section-title h2 {
+        font-size: 29px;
+    }
+    .section-title ul li {
+        text-align: left;
+    }
+    .single-news-area {
+        padding: 1px 10px 40px 10px;
+    }
+    .single-news-area a {
+        font-size: 12px;
+    }
+    .single-news-area span {
+        font-size: 12px;
+    }
+    .contact-form-area form input[type="text"] {
+        width: 47%;
+    }
+    .contact-form-area form input[type="email"] {
+        width: 47%;
+    }
+    .footer-area {
+        text-align: center;
+    }
+    .footer-icon i {
+        float: unset;
+    }
+    .footer-text {
+        margin-bottom: 16px;
+    }
+
+}
